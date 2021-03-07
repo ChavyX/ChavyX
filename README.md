@@ -1,7 +1,7 @@
 ### Hi Bro 👋
 
 <!--
-**ChavyX/ChavyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChavyX/ChavyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🤔 My name is Chavy, graduated in GDUT, a school that no one know.
 - 😄 My favorite is singing, but not that good.
